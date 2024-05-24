@@ -20,25 +20,25 @@ Welcome to Alex's QR Code Generator, a simple and convenient tool for generating
 1. **Clone the repository:**
 
    ```sh
-   git clone https://github.com/yourusername/qr-code-generator.git
+   git clone https://github.com/SapporoAlex/QR-Code-Generator.git
    ```
 2. **Navigate to the project directory:**
 
-  ```sh
-  cd qr-code-generator
-  ```
+   ```sh
+   cd qr-code-generator
+   ```
 
 3. **Install the required dependencies:**
 
-  ```sh
-  pip install qrcode
-  ```
+   ```sh
+   pip install qrcode
+   ```
 4. **Usage**
 
 Run the program:
-  ```sh
-  python qr_code_generator.py
-  ```
+   ```sh
+   python qr_code_generator.py
+   ```
 5. **Follow the on-screen instructions:**
 
 Choose option 1 to generate a QR code.
